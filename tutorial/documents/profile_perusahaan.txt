@@ -1,0 +1,57 @@
+PROFIL PERUSAHAAN – INFORMASI INTERNAL
+
+1.  INFORMASI UMUM Nama Perusahaan : PT Nusantara Teknologi Inovasi
+    Tahun Berdiri : 2018 Bidang Usaha : Teknologi Informasi &
+    Pengembangan Perangkat Lunak Kantor Pusat : Makassar, Sulawesi
+    Selatan, Indonesia Jumlah Karyawan : 120 Orang.
+    Ini adalah Perusahaan Badan Usaha Milik Luar Negeri
+
+2.  LATAR BELAKANG PERUSAHAAN PT Nusantara Teknologi Inovasi didirikan
+    sebagai respons terhadap kebutuhan transformasi digital di
+    Indonesia, khususnya di sektor pemerintahan, pendidikan, dan
+    industri kreatif. Perusahaan berfokus pada pengembangan solusi
+    berbasis Artificial Intelligence, Big Data, dan Cloud Computing.
+
+3.  VISI Menjadi perusahaan teknologi terdepan di Indonesia yang
+    menghadirkan inovasi digital berkelanjutan dan berdampak luas bagi
+    masyarakat.
+
+4.  MISI
+
+-   Mengembangkan produk teknologi yang inovatif dan kompetitif.
+-   Mendukung percepatan transformasi digital nasional.
+-   Memberikan layanan profesional dan berorientasi pada kepuasan klien.
+-   Meningkatkan kapasitas SDM melalui riset dan pelatihan
+    berkelanjutan.
+
+5.  NILAI-NILAI PERUSAHAAN
+
+-   Integritas
+-   Inovasi
+-   Kolaborasi
+-   Profesionalisme
+-   Keberlanjutan
+
+6.  STRUKTUR ORGANISASI Direktur Utama │ ├── Divisi Teknologi (CTO) ├──
+    Divisi Operasional (COO) ├── Divisi Keuangan (CFO) ├── Divisi SDM &
+    Umum └── Divisi Pemasaran & Kemitraan
+
+7.  PRODUK & LAYANAN
+
+-   Pengembangan Aplikasi Web & Mobile
+-   Sistem Artificial Intelligence & Machine Learning
+-   Layanan Cloud & DevOps
+-   Sistem OCR & Document Processing
+-   Konsultasi Transformasi Digital
+
+8.  KLIEN & MITRA Perusahaan telah bekerja sama dengan instansi
+    pemerintah, BUMN, startup teknologi, serta lembaga pendidikan di
+    berbagai wilayah Indonesia.
+
+9.  KEBIJAKAN INTERNAL Seluruh karyawan wajib menjaga kerahasiaan data
+    perusahaan, mematuhi kode etik profesional, serta mengikuti standar
+    operasional prosedur (SOP) yang berlaku.
+
+10. PENUTUP Dokumen ini merupakan informasi internal perusahaan yang
+    digunakan untuk keperluan orientasi karyawan, kemitraan, dan
+    kebutuhan administratif lainnya.
