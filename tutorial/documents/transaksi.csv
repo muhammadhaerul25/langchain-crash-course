@@ -1,0 +1,31 @@
+province,material,spec,quantity,price,date,supplier,proyek,lokasi,tahun,bulan,tipe_bangunan
+DKI Jakarta,Bata,Bata Merah Press,320,600000,2/12/2019,PT SINAR INDOGREEN KENCANA ex Grand Elephant,ITK BINUS MALANG,--,2019,2,EDUCATION
+DKI Jakarta,Bata,Bata Ringan AAC,210,750000,3/5/2019,PT POWER BLOCK INDONESIA ex Powerblock,THE SMITH,--,2019,3,RESIDENTIAL
+Jawa Barat,Semen,Semen OPC 50kg,500,72000,4/10/2019,PT SEMEN INDONESIA,Pembangunan RS Hermina,Bandung,2019,4,HEALTHCARE
+Jawa Barat,Besi,Besi Beton 10mm,1200,9800,4/15/2019,PT BAJA PERKASA,Pembangunan RS Hermina,Bandung,2019,4,HEALTHCARE
+Jawa Tengah,Pasir,Pasir Beton,800,250000,5/2/2019,PT PASIR MAKMUR,Apartemen Grand Asia,Semarang,2019,5,RESIDENTIAL
+Jawa Tengah,Kerikil,Split 2/3,650,270000,5/18/2019,PT PASIR MAKMUR,Apartemen Grand Asia,Semarang,2019,5,RESIDENTIAL
+Jawa Timur,Semen,Semen PCC 50kg,700,69000,6/20/2019,PT SEMEN INDONESIA,Mall Olympic Garden,Malang,2019,6,COMMERCIAL
+Jawa Timur,Bata,Bata Ringan AAC,450,760000,6/25/2019,PT POWER BLOCK INDONESIA ex Powerblock,Mall Olympic Garden,Malang,2019,6,COMMERCIAL
+Banten,Besi,Besi Beton 12mm,900,11000,7/3/2019,PT BAJA PERKASA,Pabrik Kimia Indo,Serang,2019,7,INDUSTRIAL
+Banten,Semen,Semen OPC 50kg,400,73000,7/9/2019,PT SEMEN INDONESIA,Pabrik Kimia Indo,Serang,2019,7,INDUSTRIAL
+DKI Jakarta,Cat,Cat Tembok Interior 25kg,150,320000,8/1/2019,PT CAT WARNA ABADI,Renovasi Gedung DPR,Jakarta,2019,8,GOVERNMENT
+DKI Jakarta,Keramik,Keramik 60x60,600,125000,8/12/2019,PT KERAMIK INDAH,Renovasi Gedung DPR,Jakarta,2019,8,GOVERNMENT
+Jawa Barat,Bata,Bata Merah Press,380,610000,9/4/2019,PT SINAR INDOGREEN KENCANA ex Grand Elephant,Sekolah Al-Azhar,Bogor,2019,9,EDUCATION
+Jawa Barat,Semen,Semen PCC 50kg,450,70000,9/14/2019,PT SEMEN INDONESIA,Sekolah Al-Azhar,Bogor,2019,9,EDUCATION
+Jawa Tengah,Besi,Besi Beton 8mm,1000,8700,10/2/2019,PT BAJA PERKASA,Hotel Arjuna,Yogyakarta,2019,10,HOSPITALITY
+Jawa Tengah,Cat,Cat Eksterior 25kg,200,350000,10/18/2019,PT CAT WARNA ABADI,Hotel Arjuna,Yogyakarta,2019,10,HOSPITALITY
+Jawa Timur,Pasir,Pasir Pasang,900,230000,11/1/2019,PT PASIR MAKMUR,Perumahan Griya Indah,Surabaya,2019,11,RESIDENTIAL
+Jawa Timur,Keramik,Keramik 40x40,750,95000,11/15/2019,PT KERAMIK INDAH,Perumahan Griya Indah,Surabaya,2019,11,RESIDENTIAL
+Sumatera Utara,Semen,Semen OPC 50kg,550,71000,12/5/2019,PT SEMEN INDONESIA,Kantor Walikota,Medan,2019,12,GOVERNMENT
+Sumatera Utara,Besi,Besi Beton 10mm,1300,9900,12/20/2019,PT BAJA PERKASA,Kantor Walikota,Medan,2019,12,GOVERNMENT
+Sulawesi Selatan,Bata,Bata Ringan AAC,410,740000,1/10/2020,PT POWER BLOCK INDONESIA ex Powerblock,Kampus UNHAS,Makassar,2020,1,EDUCATION
+Sulawesi Selatan,Semen,Semen PCC 50kg,620,70500,1/22/2020,PT SEMEN INDONESIA,Kampus UNHAS,Makassar,2020,1,EDUCATION
+Bali,Keramik,Keramik 80x80,500,185000,2/8/2020,PT KERAMIK INDAH,Hotel Sunset,Badung,2020,2,HOSPITALITY
+Bali,Cat,Cat Eksterior 25kg,180,360000,2/20/2020,PT CAT WARNA ABADI,Hotel Sunset,Badung,2020,2,HOSPITALITY
+Kalimantan Timur,Besi,Besi WF 200,300,1450000,3/6/2020,PT BAJA PERKASA,Pabrik Sawit Nusantara,Balikpapan,2020,3,INDUSTRIAL
+Kalimantan Timur,Semen,Semen OPC 50kg,480,75000,3/18/2020,PT SEMEN INDONESIA,Pabrik Sawit Nusantara,Balikpapan,2020,3,INDUSTRIAL
+DI Yogyakarta,Bata,Bata Merah Press,290,605000,4/2/2020,PT SINAR INDOGREEN KENCANA ex Grand Elephant,Perpustakaan Kota,Yogyakarta,2020,4,GOVERNMENT
+DI Yogyakarta,Keramik,Keramik 60x60,520,130000,4/15/2020,PT KERAMIK INDAH,Perpustakaan Kota,Yogyakarta,2020,4,GOVERNMENT
+Lampung,Pasir,Pasir Beton,760,245000,5/9/2020,PT PASIR MAKMUR,Perumahan Bukit Asri,Bandar Lampung,2020,5,RESIDENTIAL
+Lampung,Semen,Semen PCC 50kg,530,71500,5/21/2020,PT SEMEN INDONESIA,Perumahan Bukit Asri,Bandar Lampung,2020,5,RESIDENTIAL
